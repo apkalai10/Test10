@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-02T17:25:33 IST" name="Default suite" finished-at="2024-04-02T17:25:55 IST" duration-ms="22193">
+    <groups>
+    </groups>
+    <test started-at="2024-04-02T17:25:33 IST" name="Default test" finished-at="2024-04-02T17:25:55 IST" duration-ms="22193">
+      <class name="com.pbo.methods.Example">
+        <test-method signature="Sample()[pri:0, instance:com.pbo.methods.Example@644baf4a]" started-at="2024-04-02T17:25:33 IST" name="Sample" finished-at="2024-04-02T17:25:55 IST" duration-ms="22144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample -->
+      </class> <!-- com.pbo.methods.Example -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
